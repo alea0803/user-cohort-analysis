@@ -2,23 +2,6 @@
 
 This project demonstrates how to analyze user behavior through cohort-based metrics such as Retention Rate, Conversion Rate, Lifetime Value (LTV), and ROI using Python and Jupyter Notebook.
 
-**Table of Contents**
-
-1. [Project Overview and Objectives](#project-overview-and-objectives)  
-2. [Preparation Phase](#preparation-phase)  
-3. [Function Calculations](#function-calculations)  
-   3.1. [Get_profiles()](#get_profiles)  
-   3.2. [Get_retention()](#get_retention)  
-   3.3. [Get_conversion()](#get_conversion)  
-   3.4. [Get_ltv()](#get_ltv)  
-   3.5. [Visualization Functions](#visualization-functions)  
-4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-5. [Marketing](#marketing)  
-6. [Ad Campaign Profitability Evaluation](#ad-campaign-profitability-evaluation)  
-   6.1. [Conclusions](#conclusions)  
-
-
-
 ## Notebook
 
 The full cohort analysis notebook can be found here:  
