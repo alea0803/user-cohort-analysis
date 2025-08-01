@@ -7,8 +7,6 @@ This project demonstrates how to analyze user behavior through cohort-based metr
 The full cohort analysis notebook can be found here:  
 [📓 cohort_analysis.ipynb](./cohort_analysis.ipynb)
 
-cohort_analysis.ipynb
-
 ##  Project Goals
 
 - Evaluate the performance of traffic channels and user cohorts.
