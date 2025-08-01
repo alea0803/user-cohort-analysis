@@ -2,6 +2,13 @@
 
 This project demonstrates how to analyze user behavior through cohort-based metrics such as Retention Rate, Conversion Rate, Lifetime Value (LTV), and ROI using Python and Jupyter Notebook.
 
+## Notebook
+
+The full cohort analysis notebook can be found here:  
+[📓 cohort_analysis.ipynb](./cohort_analysis.ipynb)
+
+cohort_analysis.ipynb
+
 ##  Project Goals
 
 - Evaluate the performance of traffic channels and user cohorts.
